@@ -1,2 +1,2 @@
 # git-github
-My anme is Tanu Shree
+My name is Tanu Shree and I'm from KIIT.
